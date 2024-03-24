@@ -1,5 +1,5 @@
 // Code your solution in this file!
-const scuberHq = 42;
+    const scuberHq = 42;
     const blockDistance = '';
     
      function distanceFromHqInBlocks(blockDistance) {
@@ -13,7 +13,7 @@ const scuberHq = 42;
     function distanceFromHqInFeet(blockDistance) {
      distanceFromHqInBlocks(blockDistance);
 
-      const distanceInFeet = Math.abs(blockDistance - scuberHq)
+      const distanceInFeet = Math.abs(blockDistance - scuberHq);
       return distanceInFeet * 264;
   
     }
